@@ -1,5 +1,6 @@
 - 👋 Hi, Kamalika here!
 - 🌱 I’m currently a Ⅱ year Computer Science and Engineering student.
+<img src="https://pbs.twimg.com/media/E0xt5OXWQAYd3MX.jpg">
 <!---
 Arsynthecatastropheee/Arsynthecatastropheee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
