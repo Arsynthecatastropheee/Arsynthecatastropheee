@@ -4,10 +4,10 @@
          width="45" />
          <br><br> 
          
-[![](https://visitcount.itsvg.in/api?id=doesnots&icon=0&color=0)](https://visitcount.itsvg.in) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/doesnots) 
+[![](https://visitcount.itsvg.in/api?id=kamalika0363&icon=0&color=0)](https://visitcount.itsvg.in) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kamalika0363) 
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=doesnots&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kamalika0363&theme=radical&hide_border=false)<br/>
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
